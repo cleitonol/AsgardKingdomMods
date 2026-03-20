@@ -18,3 +18,4 @@ YamlDotNet.dll
 YamlDotNetDetector.dll
 epicmmo_exp_multiplier_levels.xlsx
 kg.Marketplace.dll
+EpicLoot.dll
