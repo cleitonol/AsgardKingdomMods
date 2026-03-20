@@ -3,6 +3,10 @@ CleanMainMenu.dll
 ConfigurationManager.dll
 ConfigurationManagerAttributes.cs
 CreatureLevelControl.dll
+EpicMMOSystem.dll
+ExpandWorldData.dll
+Jotunn.dll
+MaxPlayerCount.dll
 ModVipAsgard.dll
 Newtonsoft.Json.dll
 NewtonsoftJsonDetector.dll
@@ -12,3 +16,5 @@ ServerDevcommands.dll
 ValheimLegends.dll
 YamlDotNet.dll
 YamlDotNetDetector.dll
+epicmmo_exp_multiplier_levels.xlsx
+kg.Marketplace.dll
