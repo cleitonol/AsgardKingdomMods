@@ -1,0 +1,14 @@
+CW_Jesse.BetterNetworking.dll
+CleanMainMenu.dll
+ConfigurationManager.dll
+ConfigurationManagerAttributes.cs
+CreatureLevelControl.dll
+ModVipAsgard.dll
+Newtonsoft.Json.dll
+NewtonsoftJsonDetector.dll
+README.md
+ServerCharacters.dll
+ServerDevcommands.dll
+ValheimLegends.dll
+YamlDotNet.dll
+YamlDotNetDetector.dll
