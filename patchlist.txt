@@ -36,3 +36,14 @@ VentureValheim.LocationReset.dll
 ItemCompare.dll
 DropCleaner.dll
 AdventureBackpacksAPI.dll
+SeaAnimals.dll
+OdinMounts.dll
+LongshipUpgrades.dll
+Wagon.dll
+UsefulPaths.dll
+CustomSpawner.dll
+Kolossium.dll
+PassivePowers.dll
+XPortal.dll
+Groups.dll
+OdinShip.dll
