@@ -47,6 +47,5 @@ PassivePowers.dll
 XPortal.dll
 Groups.dll
 OdinShip.dll
-WardsLove.dll
 Advize_Armoire.dll
 PlanBuild.dll
