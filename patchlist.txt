@@ -49,3 +49,7 @@ Groups.dll
 OdinShip.dll
 Advize_Armoire.dll
 PlanBuild.dll
+AzuAnticheat.dll
+BearsDenAdmin.dll
+ItemStacks.dll
+kg_ArcaneWard.dll
